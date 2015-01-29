@@ -29,7 +29,7 @@ var storage = (function(){
 	return {
 		data:function(prop, val)
 		{
-			if(!val)
+			if(val == undefined)
 			{
 				return get(prop);
 			}
