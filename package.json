@@ -1,0 +1,26 @@
+{
+  "name": "storage.js",
+  "version": "1.0.0",
+  "description": "storage.js is a simple abstraction of the browser localStorage API",
+  "main": "storage.js",
+  "scripts": {
+    "test": "storage.trace()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/32teeth/storage.js.git"
+  },
+  "keywords": [
+    "localStorage",
+    "storage",
+    "session",
+    "cookie",
+    "data"
+  ],
+  "author": "eugene andruszczenko <eugene.andruszczenko@gmail.com> (http://32teeth.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/32teeth/storage.js/issues"
+  },
+  "homepage": "https://github.com/32teeth/storage.js"
+}
