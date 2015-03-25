@@ -50,6 +50,10 @@ var storage = (function(){
 		clear:function()
 		{
 			clear();
-		}				
+		},
+		trace:function()
+		{
+			trace();
+		}			
 	}
 })();
