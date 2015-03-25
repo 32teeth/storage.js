@@ -21,6 +21,11 @@ var storage = (function(){
 	{
 		localStorage.clear();
 	}
+
+	function trace()
+	{
+		typeof console == "object" ? console.dir(localStorage) : alert(localStorage)
+	}
 	
 	
 	/*
