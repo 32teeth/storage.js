@@ -11,7 +11,7 @@
 
 ## usage
 
-###data()
+### data()
 the *data* method can be called as a setter or getter
 
 #### *data()* as a setter
