@@ -14,7 +14,7 @@
 ###data()
 the *data* method can be called as a setter or getter
 
-####*data()* as a setter
+#### *data()* as a setter
 ```
 /*
 @param property {string} string name of property
@@ -25,7 +25,7 @@ the *data* method can be called as a setter or getter
 data(property, value)
 ```
 
-####*data()* as a getter
+#### *data()* as a getter
 ```
 /*
 @param property {string} string name of property to return value of
@@ -34,7 +34,7 @@ data(property, value)
 data(property)
 ```
 
-###remove()
+### remove()
 ```
 /*
 @param property {string} string name of property to remove from storage
@@ -42,7 +42,7 @@ data(property)
 remove(property)
 ```
 
-###clear()
+### clear()
 ```
 /*
 @description clears localStorage object completely. good for ending sessions.
