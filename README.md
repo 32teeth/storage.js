@@ -1,5 +1,9 @@
 # storage.js
 
+
+> [!TIP]
+> We've created a new secure [safe-encrypted-storage](https://github.com/npm-packages-collection/safe-encrypted-storage) npm package, you should migrate
+
 **storage.js** is a simple abstraction of the browser *localStorage API*
 
 ## design pattern
